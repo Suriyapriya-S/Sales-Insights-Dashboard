@@ -77,8 +77,4 @@ Used **Star Schema** with 5 tables:
 
 ---
 
-## Contact
 
-**Suriyapriya S**  
-📧 [Your Email Here]  
-🔗 [Your LinkedIn Profile Here]
