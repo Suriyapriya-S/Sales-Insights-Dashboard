@@ -64,16 +64,16 @@ Used **Star Schema** with 5 tables:
 ## Screenshots
 
 ### Revenue Analysis
-![Image_Alt]<img width="1380" height="775" alt="Screenshot 2026-05-18 143258" src="https://github.com/user-attachments/assets/3cfb2995-b376-4b2e-8c9e-7c331068967b" />
+![Image_Alt] <img width="1380" height="775" alt="Screenshot 2026-05-18 143258" src="https://github.com/user-attachments/assets/3cfb2995-b376-4b2e-8c9e-7c331068967b" />
 
 
 ### Profit Analysis
-![Image_Alt](<img width="1381" height="734" alt="Screenshot 2026-05-18 143352" src="https://github.com/user-attachments/assets/111da379-ce68-4412-967f-b6b93fb22883" />
-)
+![Image_Alt] <img width="1381" height="734" alt="Screenshot 2026-05-18 143352" src="https://github.com/user-attachments/assets/111da379-ce68-4412-967f-b6b93fb22883" />
+
 
 ### Performance Insights
-![Image_Alt](<img width="1379" height="732" alt="Screenshot 2026-05-18 143408" src="https://github.com/user-attachments/assets/04ee5208-be2a-4da0-b31d-d16d859be6dc" />
-)
+![Image_Alt] <img width="1379" height="732" alt="Screenshot 2026-05-18 143408" src="https://github.com/user-attachments/assets/04ee5208-be2a-4da0-b31d-d16d859be6dc" />
+
 
 ---
 
