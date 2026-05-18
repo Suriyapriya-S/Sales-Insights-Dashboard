@@ -64,7 +64,7 @@ Used **Star Schema** with 5 tables:
 ## Screenshots
 
 ### Revenue Analysis
-![Image_Alt](<img width="1380" height="775" alt="Screenshot 2026-05-18 143258" src="https://github.com/user-attachments/assets/3cfb2995-b376-4b2e-8c9e-7c331068967b" />)
+![Image_Alt]<img width="1380" height="775" alt="Screenshot 2026-05-18 143258" src="https://github.com/user-attachments/assets/3cfb2995-b376-4b2e-8c9e-7c331068967b" />
 
 
 ### Profit Analysis
