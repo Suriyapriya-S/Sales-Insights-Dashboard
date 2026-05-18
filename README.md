@@ -64,8 +64,7 @@ Used **Star Schema** with 5 tables:
 ## Screenshots
 
 ### Revenue Analysis
-![Revenue Analysis](Screenshots/revenue_analysis.png)
-
+![Image_Alt](https://github.com/Suriyapriya-S/Sales-Insights-Dashboard/blob/main/revenue_analysis.png)
 
 ### Profit Analysis
 ![Image_Alt]<img width="1381" height="734" alt="Screenshot 2026-05-18 143352" src="https://github.com/user-attachments/assets/111da379-ce68-4412-967f-b6b93fb22883" />
