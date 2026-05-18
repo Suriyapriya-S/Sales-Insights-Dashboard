@@ -67,8 +67,7 @@ Used **Star Schema** with 5 tables:
 ![Image_Alt](https://github.com/Suriyapriya-S/Sales-Insights-Dashboard/blob/main/revenue_analysis.png)
 
 ### Profit Analysis
-![Image_Alt]<img width="1381" height="734" alt="Screenshot 2026-05-18 143352" src="https://github.com/user-attachments/assets/111da379-ce68-4412-967f-b6b93fb22883" />
-
+![Image_Alt](https://github.com/Suriyapriya-S/Sales-Insights-Dashboard/blob/main/profit_analysis.png)
 
 ### Performance Insights
 ![Image_Alt](<img width="1379" height="732" alt="Screenshot 2026-05-18 143408" src="https://github.com/user-attachments/assets/04ee5208-be2a-4da0-b31d-d16d859be6dc" />)
